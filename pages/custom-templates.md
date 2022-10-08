@@ -7,7 +7,7 @@ youtubeId: QJVbSPSztwY
 ### Introduction 
 
 Built-in device types are nice but sometimes they are just not what we want. In this walk though we will create a new custom device type
-called **Washing Machine**, learn how to define differet wash modes like: Hot, Warm and Cold and generate the code it and control using Amazon Alexa.
+called **Washing Machine**, learn how to define different wash modes like: Hot, Warm and Cold and generate the code it and control using Amazon Alexa.
 
 ### Step 1: Create Washing Machine device template
 
